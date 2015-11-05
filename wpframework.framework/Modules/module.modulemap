@@ -1,6 +1,0 @@
-framework module wpframework {
-  umbrella header "wpframework.h"
-
-  export *
-  module * { export * }
-}
